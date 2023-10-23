@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+body {
+  background-image: url(../public/images/pngtree-science-or-technology-background-with-dynamic-particles-trendy-colorful-design-template-image_406781.jpg);
+}
+
+
+.list-group-flush {
+  padding-left: 100px ;
+  background-color: #001528;
+  color: wheat;
+  
+}
+
+.navbar {
+  background-color: #66CEF5;
+}
